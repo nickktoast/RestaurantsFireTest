@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65246623532",
+    "firebase_url": "https://listofrestaurants-2c622.firebaseio.com",
+    "project_id": "listofrestaurants-2c622",
+    "storage_bucket": "listofrestaurants-2c622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65246623532:android:e6744539eb08b978",
+        "android_client_info": {
+          "package_name": "com.example.nick.listofrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65246623532-h837cv406m2m31pi4ab1i29ls2aglsqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nick.listofrestaurants",
+            "certificate_hash": "f463a3d31eca67443d5c2bb36ad1a3d0fb3ef315"
+          }
+        },
+        {
+          "client_id": "65246623532-j3udn8dl4mo6sc31j0ng09m2kgml5hb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDivVKSsamD6QRTMxoyB5v5vA3oY7BBBDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65246623532-j3udn8dl4mo6sc31j0ng09m2kgml5hb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
